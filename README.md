@@ -4,10 +4,10 @@
 
 The script is prepared for the follow project structure
 ```
-HOME_PROJECT
-            |_ellucian-external
-            |_sources
-            |_...
+PROJECT
+       |_project-external
+       |_sources
+       |_...
 ```
 
 TODO
