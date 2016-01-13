@@ -1,6 +1,9 @@
 # Lay-z_no :zzz:
 
+ALPHA
 
+Notes:
+It's not fully automated. There git unexpected error that require 'key press'.
 
 The script is prepared for the follow project structure
 ```
