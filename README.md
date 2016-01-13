@@ -4,6 +4,7 @@ ALPHA
 
 Notes:
 It's not fully automated. There git unexpected error that require 'key press'.
+To execute the batch file must be on top project diretory.
 
 The script is prepared for the follow project structure
 ```
