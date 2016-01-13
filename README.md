@@ -1,13 +1,14 @@
-# Lay-z_no
+# Lay-z_no :zzz:
 
-:zzz:
+
 
 The script is prepared for the follow project structure
+```
 HOME_PROJECT
             |_ellucian-external
             |_sources
             |_...
-
+```
 
 TODO
 Add date to stash name
