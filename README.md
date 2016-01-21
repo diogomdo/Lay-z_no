@@ -9,6 +9,7 @@ It's not fully automated. There git unexpected error that require 'key press'.
 ---
 ##### Instructions:
 
+In some situations is necessary to add a system variable when at runtime prompt will ask you to press Enter. To solve just add *TERM* with value *msys*, for Windows. (Must restart prompt).
 To execute the batch file must be on top project diretory.
 
 The script is prepared for the follow project structure
